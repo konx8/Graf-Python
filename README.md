@@ -3,6 +3,7 @@
 
 ## Main goals
 Algorithms that have been implemented to:
+
 -Search through the graph
 -Searching the graph deep
 -Making a school path
