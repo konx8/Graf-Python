@@ -1,4 +1,6 @@
 # Graf-Python
+The aim of the project was to create a graphic application that would be able to create / draw graphs according to the user's recommendations
+
 # General info
 
 ## Main goals
